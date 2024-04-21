@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "foobar",
+	"author": "Nicholas Sinks",
+	"description": "My Project for FreeCodeCamp's 'Managing packages with NPM' lesson",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
@@ -13,6 +14,6 @@
 	},
 	"repository": {
 	  "type": "git",
-	  "url": "https://idontknow/todo.git"
+	  "url": "https://github.com/NicholaSinks/FCC-Boilerplate-NPM-Lesson"
 	}
   }
