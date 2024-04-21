@@ -2,8 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nicholas Sinks",
 	"description": "My Project for FreeCodeCamp's 'Managing packages with NPM' lesson",
+	"keywords": ["freecodecamp", "lesson", "tutorial", "npm", "node"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-	  "express": "^4.14.0"
+	  "express": "^4.14.0",
+	  "@freecodecamp/example": "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
